@@ -1,2 +1,2 @@
-# goit-markup-hw-02
- Домашнее задание HTML+CSS №2
+# html-css-homework-1
+Домашнее задание №1 - Основы HTML
